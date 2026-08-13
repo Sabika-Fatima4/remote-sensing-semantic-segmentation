@@ -227,7 +227,7 @@ The main finding is that **Partial Cross Entropy retained most of the performanc
 
 - `remotesensing-4.ipynb` — complete notebook containing all four model stages and experiments
 - `Remote_Sensing_Partial_CE_Report.docx` — technical report
-- `results/` — optional folder for selected prediction figures
+  
 
 Large datasets and model checkpoints are intentionally excluded from the repository.
 
